@@ -1,0 +1,18 @@
+{
+    "name": "teepos",
+    "version": "1.0.0",
+    "description": "teepos db",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+
+
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "mongodb": "^4.6.0"
+    }
+}

@@ -3,5 +3,6 @@ express
 
 
 # how to use  
-## dfdf
-### dffe
+## install docker 
+## build :  docker-compose build
+### run : docker-compose up
